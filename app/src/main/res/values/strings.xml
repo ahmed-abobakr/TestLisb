@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestLib</string>
+    <string name="edit_phone">Phone</string>
+    <string name="edit_password">Enter your password</string>
+    <string name="edit_confirm_password">confirm password</string>
+    <string name="empty_phone_error">please, enter your phone</string>
+    <string name="password_not_match_error">the password doesn\'t match</string>
+    <string name="empty_password_error">please, enter your password</string>
+
+</resources>
